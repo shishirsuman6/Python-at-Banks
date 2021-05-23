@@ -43,3 +43,38 @@ Final script should print the analysis to the terminal and export a text file wi
 Output text file location: "../python_homework/PyBank/output.txt"
 
 ```
+
+```
+PyRamen
+
+Create a python script to analyze your business's financial performance by cross-referencing your 
+sales data with your internal menu data to figure out revenues and costs for the year.
+
+Read the Data:
+--------------
+
+Menu dataset is in this file: menu_data.csv
+filepath: "../PyRamen/Resources/menu_data.csv"
+This dataset is composed of columns: item,category,description,price,cost
+
+Sales dataset is in this file: sales_data.csv
+filepath: "../PyRamen/Resources/sales_data.csv"
+This dataset is composed of columns: Line_Item_ID, Date, Credit_Card_Number, Quantity, Menu_Item
+
+
+Manipulate the Data:
+--------------------
+
+Create a report dictionary to hold the future aggregated per-product results
+01-count: the total quantity for each ramen type
+02-revenue: the total revenue for each ramen type
+03-cogs: the total cost of goods sold for each ramen type
+04-profit: the total profit for each ramen type
+
+Write out the contents of the report dictionary to a text file. 
+The report should output each ramen type as 
+the keys and 01-count, 02-revenue, 03-cogs, and 04-profit metrics as the values for every ramen type.
+
+Output text file location: "../python_homework/PyRamen/output.txt"
+
+```
