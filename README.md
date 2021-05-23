@@ -11,9 +11,8 @@ Unit 2 | Homework Assignment: Automate Your Day Job with Python
 
 ## Project Details
 
+### 1) PyBank
 ```
-PyBank
-
 Create a Python script for analyzing the financial records of a company.
 
 financial dataset is in this file: budget_data.csv
@@ -44,9 +43,9 @@ Output text file location: "../python_homework/PyBank/output.txt"
 
 ```
 
-```
-PyRamen
+### 2) PyRamen
 
+```
 Create a python script to analyze your business's financial performance by cross-referencing your 
 sales data with your internal menu data to figure out revenues and costs for the year.
 
