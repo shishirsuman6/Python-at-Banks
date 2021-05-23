@@ -9,6 +9,8 @@ Unit 2 | Homework Assignment: Automate Your Day Job with Python
 
 4. Push the above changes to GitHub.
 
+## Project Details
+
 ```
 PyBank
 
